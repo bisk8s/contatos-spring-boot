@@ -1,8 +1,9 @@
-package com.lucena.contatos.repository;
+package com.lucena.contatos.controller;
 
 import java.util.List;
 
 import com.lucena.contatos.model.Contato;
+import com.lucena.contatos.repository.Contatos;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
